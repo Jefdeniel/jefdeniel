@@ -12,8 +12,8 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pgm-jefdenie&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jefdeniel&theme=dark)](https://git.io/streak-stats)<br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pgm-jefdenie&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jefdeniel&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)

@@ -1,6 +1,6 @@
 # ⚡️ Hello!
 
-🤟 Hi, I'm Jef.
+🤟 Hi, my name is Jef
 
 ## 🌐 Socials:
 
